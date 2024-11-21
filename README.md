@@ -53,7 +53,7 @@ After training, the collected data will be saved in `dataset/`, and the learned 
 
 ## File organization
 
-The important implementation is saved at:
+The important implementations are saved at:
 
 - `scripts/online_feedback.py`: generate responses based on a prompt set of preference datasets, and adopt PairRM to rank responses to obtain the online preference dataset.
 
